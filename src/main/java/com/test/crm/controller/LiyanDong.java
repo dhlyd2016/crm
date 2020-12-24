@@ -11,7 +11,7 @@ public class LiyanDong {
     public static void main(String[] args) {
        // System.err.println("李彦东是个大帅哥");
         System.out.println("测试新增代码提交");
-        LiyanDong.test("我真的相信");
+
         System.out.println("--------------------------------------------");
         System.out.println(test("哇,"));
     }
