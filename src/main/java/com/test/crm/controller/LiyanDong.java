@@ -17,6 +17,7 @@ public class LiyanDong {
         System.out.println(test("哇,"));
         System.out.println(test("看那个帅哥，清爽帅气"));
         System.out.println("代英学比李彦东帅气,不接受任何反驳");
+        System.out.println("倒萨阿萨大大撒撒大大是");
 
     }
     public static String test(String s){
