@@ -12,7 +12,7 @@ public class LiyanDong {
        // System.err.println("李彦东是个大帅哥");
         System.out.println("测试新增代码提交");
 
-        System.out.println("！bitch！");
+        System.out.println("！bitch！  ");
         System.out.println("--------------------------------------------");
         System.out.println(test("哇,"));
         System.out.println(test("看那个帅哥，清爽帅气"));
